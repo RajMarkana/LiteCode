@@ -193,7 +193,7 @@ const App = () => {
 
                         <div className=' col-span-2 sm:col-span-1'>
 
-                          <p className='p-4 font-bold text-primary_1 text-2xl'>Code</p>
+                          <p className='p-4 font-bold text-primary_1 text-2xl'>Generated Code</p>
                           <div className='max-h-96 overflow-auto p-4 bg-zinc-100 rounded-2xl'>
                             <ReactMarkdown className=''>{SimplifiedCode}</ReactMarkdown>
                           </div>
